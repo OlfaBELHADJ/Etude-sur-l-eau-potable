@@ -16,6 +16,15 @@ Elle a besoin d'un tableau de bord afin d'identifier les pays qui rencontrent de
 
 **Mission**:
 
+Réaliser un Dashboard qui illustre, à travers des indicateurs bien choisis, la situation de l'accès à l'eau potable dans le monde, par région et par pays. 
+
 
 **Compétences**:
+
+-Utiliser l'outil Microsoft Power BI pour créer un Dashboard.
+
+-Se familiariser avec la notion de UserStory.
+
+-Générer des visuels adaptés au type de données et répondant aux besoins décrits par les UserStories. 
+
 
