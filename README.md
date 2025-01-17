@@ -1,4 +1,9 @@
-**Mise en situation**:
+# ETUDE SUR L'EAU POTABLE
+
+Ce projet s'inscrit dans le cadre de ma formation Data Analyst d'OpenClassrooms. 
+
+
+## Mise en situation
 
 ![image](https://github.com/user-attachments/assets/2212796e-3534-44e2-b825-b03410281685)
 
@@ -14,12 +19,12 @@ Elle est active dans 3 domaines :
 
 Elle a besoin d'un tableau de bord afin d'identifier les pays qui rencontrent des difficultés d'accès à l'eau potable. 
 
-**Mission**:
+## Mission
 
 Réaliser un Dashboard qui illustre, à travers des indicateurs bien choisis, la situation de l'accès à l'eau potable dans le monde, par région et par pays. 
 
 
-**Compétences**:
+## Compétences
 
 -Utiliser l'outil Microsoft Power BI pour créer un Dashboard.
 
